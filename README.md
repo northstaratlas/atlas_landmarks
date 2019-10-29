@@ -1,4 +1,4 @@
-Developed for [northstar](https://github.com/northstaratlas/northstar).
+Developed for [northstar](https://github.com/northstaratlas/northstar) ([biorXiv](https://www.biorxiv.org/content/10.1101/820928v1)).
 
 Files are in [loom](http://loompy.org/) format.
 

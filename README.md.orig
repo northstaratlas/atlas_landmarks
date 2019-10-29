@@ -25,7 +25,11 @@ For programmatic access, see the [TSV table](https://github.com/northstaratlas/a
 
 - Blood (peripheral) by [Zanini, Robinson et al. 2018](https://www.pnas.org/content/115/52/E12363.short)
   - Technology: **SmartSeq2**
-  - **healthy controls**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Zanini_2018.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Zanini_2018.loom)
+<<<<<<< HEAD
+  - **healthy controls**: [averages](https://github.com/iosonofabio/atlas_ladmarks/raw/master/data/averages/Zanini_2018.loom) ⎮ [subsamples](https://github.com/iosonofabio/atlas_landmarks/raw/master/data/subsamples/Zanini_2018.loom)
+=======
+  - **healthy controls**: [averages](https://github.com/northstaratlas/atlas_ladmarks/raw/master/data/averages/Zanini_2018.loom) ⎮ [susamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Zanini_2018.loom)
+>>>>>>> atlas/master
 
 - B cells (peripheral blood) by [Croote et al. 2019](https://science.sciencemag.org/content/362/6420/1306.editor-summary)
   - Technology: **SmartSeq2**
@@ -49,9 +53,9 @@ For programmatic access, see the [TSV table](https://github.com/northstaratlas/a
     - **Fat**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_fat.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_fat.loom)
     - **Heart**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_heart.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_heart.loom)
     - **Intestine**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_intestine.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_intestine.loom)
-    - **Kidney**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_kidney.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_kidney.loom)
+    - **Kidney**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_kidney.loom) ⎮ [susamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_kidney.loom)
     - **Liver**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_liver.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_liver.loom)
-    - **Lung**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_lung.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_lung.loom)
+    - **Lung**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_lung.loom) ⎮ [susamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_lung.loom)
     - **Mammary gland**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_mammary_gland.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_mammary_gland.loom)
     - **Marrow**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_marrow.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_marrow.loom)
     - **Muscle (skeletal)**: [averages](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/averages/Tabula_muris_2018_FACS_muscle.loom) ⎮ [subsamples](https://github.com/northstaratlas/atlas_landmarks/raw/master/data/subsamples/Tabula_muris_2018_FACS_muscle.loom)
